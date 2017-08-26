@@ -4,9 +4,9 @@ Parody of [gabegaming.com](https://gabegaming.com) ([Github](https://github.com/
 
 # Credits
 
-Original: [gabegaming.com](https://gabegaming.com) by [@mangopdf](https://twitter.com/mangopdf) and [@RakeDodgers](https://twitter.com/RakeDodgers)
-Image: http://www.moddb.com/company/cd-projekt-red/images/marcin-iwiski
-Saint: Marcin Iwiński
+* Original: [gabegaming.com](https://gabegaming.com) by [@mangopdf](https://twitter.com/mangopdf) and [@RakeDodgers](https://twitter.com/RakeDodgers)
+* Image: http://www.moddb.com/company/cd-projekt-red/images/marcin-iwiski
+* Saint: Marcin Iwiński
 
 # License
 
